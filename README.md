@@ -22,7 +22,7 @@ With the risk profile, I was particularly concerned with the most significant ev
 
 In order to determine that constituted an `freak weather event`, first needed to compile a database of historial highs and low for the cities being considered. 
 
-As example table:
+An example table:
 
 | Cities   | Historial Low °C | Historical High |
 |----------|------------------|-----------------|
@@ -44,10 +44,12 @@ if City_Temp falls within 25% of Historial_Low
 if City_Wind_Speed exceeds 40mph
 
   freak_weather_event = Windstorm
-  
 ```
 
-  
-  
+## Upcoming Additions
+
+- Adding a changelog sidebar on the website
+- Adding a timesweep bar to allow user to move through time and see events occur
+- Adding Weather API and `heatwave`, `freeze` and `windstorm` Icons
 
 
