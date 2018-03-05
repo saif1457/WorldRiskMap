@@ -27,8 +27,8 @@ An example table:
 | Cities   | Historial Low °C | Historical High |
 |----------|------------------|-----------------|
 | London   |        -5        |        35       |
-| Paris    |                  |        32       |
-| New York |                  |        34       |
+| Paris    |         -3.7        |        32       |
+| New York |          -10        |        34       |
 
 Basic  logic for determining a `freak weather event`:
 
